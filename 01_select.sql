@@ -1,0 +1,3 @@
+SELECT 'OLÁ MUNDO!' AS MENSAGEM;
+
+SELECT IdCliente, QtdePontos FROM clientes LIMIT 10;
